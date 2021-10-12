@@ -27,7 +27,7 @@ yarn create single-spa
 ```
 al ejecutar el comando como creacion de arquetipos que es lo recomendable por el proveedor de servicios nos pedira completar wizard de creacion de proyecto
 
-![alt text](https://github.com/JesusGarcia9009/POC-MF-ANGULAR-REACT/blob/main/doc/create-mf-angular.PNG)
+![alt text](https://github.com/JesusGarcia9009/poc-frontend-angular-simplespa/blob/main/doc/create-mf-angular.PNG)
 
 una vez tengamos la estrctura de carpeta del nuevo mf-layout estamos listos para hacer unos pequeños ajustes que el provehedor sigue trabajando en ellos con el fin de lograr la mayor estabilidad posible en el proceso
 
@@ -65,7 +65,7 @@ create-single-spa
 ```
 ejecutando el comando vamos a tener que rellenar diferentes opciones para que al CLI pueda identificar que tipo de plantilla es la que necesita para crear la shell
 
-![alt text](https://github.com/JesusGarcia9009/POC-MF-ANGULAR-REACT/blob/main/doc/create-mf-shell.PNG)
+![alt text](https://github.com/JesusGarcia9009/poc-frontend-angular-simplespa/blob/main/doc/create-mf-shell.PNG)
 
 Lugo de generar la shell hay varios aspectos que habria que configurar para poder registrar el modulo que habiamos creado anteriormente el `mf-layout` en la shell para poder visualizar un mf dentro de otro
 
