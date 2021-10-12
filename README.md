@@ -1,4 +1,4 @@
-# POC-MF-ANGULAR-REACT    SINGLE-SPA
+# SINGLE-SPA
 MicroFront a partir del framemework Single-SPA
 
 ## Comenzando con mf-angular
